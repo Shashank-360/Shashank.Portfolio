@@ -289,7 +289,7 @@ p strong {
 
 .about-image:hover {
     transform: translateY(-10.5px);
-    filter: drop-shadow(0 0 30px rgba(223, 59, 13, 0.8));
+    filter: drop-shadow(0 0 30px rgba(9, 249, 233, 0.8));
 }
 
 
